@@ -15,7 +15,7 @@ public class Restaurante {
         this.id = id;
         this.nomeFantasia = nomeFantasia;
         this.cnpj = cnpj;
-        this.endereco = endereco;ss                                                                awq
+        this.endereco = endereco;
     }
 
     public long getId() {
